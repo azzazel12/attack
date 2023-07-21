@@ -1,0 +1,8 @@
+requests
+rich
+bs4
+colorama
+pyfiglet
+tqdm
+fake-useragent
+tldextract

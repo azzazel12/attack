@@ -1,0 +1,23 @@
+1.Download python3.9.6 ( https://www.python.org/ftp/python/3.9.6/python-3.9.6-amd64.exe )
+2.Install in your computer
+3.Open CMD ( WIN + R )
+4.Go to the bots folder
+5.Install module
+for windows : py -m pip install -r requirements.txt
+for linux : python3 install -r requirements.txt
+6.Run Tools
+7.Done
+
+
+==================================
+AUTHOR : t.me/AXVDIGITAL
+WEBSITE OFFICIAL : https://axvdigital.com
+NOTE : BE CAREFUL IF SOMEONE RESELLS THESE TOOLS, IMMEDIATELY REPORT TO THE AUTHOR IF YOU FIND SOMETHING LIKE THAT!!.
+==================================
+ HAVE FUN BROO...!!!
+ JOIN MY TOOLS MARKET : t.me/axvtools
+
+ RDP RAM 4 MAX THEARDS = 30
+ RDP RAM 8 MAX THEARDS = 100
+ 
+
